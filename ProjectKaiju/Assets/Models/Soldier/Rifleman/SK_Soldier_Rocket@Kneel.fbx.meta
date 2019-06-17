@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: b5b40705614915b4399bd9afb21f1251
+timeCreated: 1525288869
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: swat:Head
+    100004: swat:Hips
+    100006: swat:LeftArm
+    100008: swat:LeftFoot
+    100010: swat:LeftForeArm
+    100012: swat:LeftHand
+    100014: swat:LeftHandIndex1
+    100016: swat:LeftHandIndex2
+    100018: swat:LeftHandIndex3
+    100020: swat:LeftHandMiddle1
+    100022: swat:LeftHandMiddle2
+    100024: swat:LeftHandMiddle3
+    100026: swat:LeftHandPinky1
+    100028: swat:LeftHandPinky2
+    100030: swat:LeftHandPinky3
+    100032: swat:LeftHandRing1
+    100034: swat:LeftHandRing2
+    100036: swat:LeftHandRing3
+    100038: swat:LeftHandThumb1
+    100040: swat:LeftHandThumb2
+    100042: swat:LeftHandThumb3
+    100044: swat:LeftLeg
+    100046: swat:LeftShoulder
+    100048: swat:LeftToeBase
+    100050: swat:LeftUpLeg
+    100052: swat:Neck
+    100054: swat:Neck1
+    100056: swat:RightArm
+    100058: swat:RightFoot
+    100060: swat:RightForeArm
+    100062: swat:RightHand
+    100064: swat:RightHandIndex1
+    100066: swat:RightHandIndex2
+    100068: swat:RightHandIndex3
+    100070: swat:RightHandMiddle1
+    100072: swat:RightHandMiddle2
+    100074: swat:RightHandMiddle3
+    100076: swat:RightHandPinky1
+    100078: swat:RightHandPinky2
+    100080: swat:RightHandPinky3
+    100082: swat:RightHandRing1
+    100084: swat:RightHandRing2
+    100086: swat:RightHandRing3
+    100088: swat:RightHandThumb1
+    100090: swat:RightHandThumb2
+    100092: swat:RightHandThumb3
+    100094: swat:RightLeg
+    100096: swat:RightShoulder
+    100098: swat:RightToeBase
+    100100: swat:RightUpLeg
+    100102: swat:Spine
+    100104: swat:Spine1
+    100106: swat:Spine2
+    400000: //RootNode
+    400002: swat:Head
+    400004: swat:Hips
+    400006: swat:LeftArm
+    400008: swat:LeftFoot
+    400010: swat:LeftForeArm
+    400012: swat:LeftHand
+    400014: swat:LeftHandIndex1
+    400016: swat:LeftHandIndex2
+    400018: swat:LeftHandIndex3
+    400020: swat:LeftHandMiddle1
+    400022: swat:LeftHandMiddle2
+    400024: swat:LeftHandMiddle3
+    400026: swat:LeftHandPinky1
+    400028: swat:LeftHandPinky2
+    400030: swat:LeftHandPinky3
+    400032: swat:LeftHandRing1
+    400034: swat:LeftHandRing2
+    400036: swat:LeftHandRing3
+    400038: swat:LeftHandThumb1
+    400040: swat:LeftHandThumb2
+    400042: swat:LeftHandThumb3
+    400044: swat:LeftLeg
+    400046: swat:LeftShoulder
+    400048: swat:LeftToeBase
+    400050: swat:LeftUpLeg
+    400052: swat:Neck
+    400054: swat:Neck1
+    400056: swat:RightArm
+    400058: swat:RightFoot
+    400060: swat:RightForeArm
+    400062: swat:RightHand
+    400064: swat:RightHandIndex1
+    400066: swat:RightHandIndex2
+    400068: swat:RightHandIndex3
+    400070: swat:RightHandMiddle1
+    400072: swat:RightHandMiddle2
+    400074: swat:RightHandMiddle3
+    400076: swat:RightHandPinky1
+    400078: swat:RightHandPinky2
+    400080: swat:RightHandPinky3
+    400082: swat:RightHandRing1
+    400084: swat:RightHandRing2
+    400086: swat:RightHandRing3
+    400088: swat:RightHandThumb1
+    400090: swat:RightHandThumb2
+    400092: swat:RightHandThumb3
+    400094: swat:RightLeg
+    400096: swat:RightShoulder
+    400098: swat:RightToeBase
+    400100: swat:RightUpLeg
+    400102: swat:Spine
+    400104: swat:Spine1
+    400106: swat:Spine2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

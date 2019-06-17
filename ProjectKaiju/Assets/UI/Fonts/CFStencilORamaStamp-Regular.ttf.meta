@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ebe5e001767d8ac478e465bc1ee1f8b6
+timeCreated: 1521658196
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CF Stencil O Rama Stamp
+  fontNames:
+  - CF Stencil O Rama Stamp
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

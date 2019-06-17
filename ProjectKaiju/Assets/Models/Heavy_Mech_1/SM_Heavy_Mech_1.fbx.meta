@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 5cb9ad1d7ce197d489396965c1c29654
+timeCreated: 1523299899
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AT_Gun
+    100002: Collar_L
+    100004: Collar_R
+    100006: CTRL__Toe2_L
+    100008: CTRL_Collar_L
+    100010: CTRL_Collar_R
+    100012: CTRL_Foot_L
+    100014: CTRL_Foot_R
+    100016: CTRL_Gun
+    100018: CTRL_LowerArm_L
+    100020: CTRL_LowerArm_R
+    100022: CTRL_Root
+    100024: CTRL_Spine
+    100026: CTRL_Toe1_L
+    100028: CTRL_Toe1_R
+    100030: CTRL_Toe2_R
+    100032: CTRL_UpperArm_L
+    100034: CTRL_UpperArm_R
+    100036: Foot_L
+    100038: Foot_R
+    100040: Gun
+    100042: HeavyMech
+    100044: Hip_L
+    100046: Hip_R
+    100048: Knee1_L
+    100050: Knee1_R
+    100052: Knee_L
+    100054: Knee_R
+    100056: LowerArm_L
+    100058: LowerArm_R
+    100060: Pelvis
+    100062: Pelvis_Control
+    100064: Root
+    100066: //RootNode
+    100068: Spine
+    100070: Toe1_L
+    100072: Toe1_R
+    100074: Toe2_L
+    100076: Toe2_R
+    100078: UpperArm_L
+    100080: UpperArm_R
+    400000: AT_Gun
+    400002: Collar_L
+    400004: Collar_R
+    400006: CTRL__Toe2_L
+    400008: CTRL_Collar_L
+    400010: CTRL_Collar_R
+    400012: CTRL_Foot_L
+    400014: CTRL_Foot_R
+    400016: CTRL_Gun
+    400018: CTRL_LowerArm_L
+    400020: CTRL_LowerArm_R
+    400022: CTRL_Root
+    400024: CTRL_Spine
+    400026: CTRL_Toe1_L
+    400028: CTRL_Toe1_R
+    400030: CTRL_Toe2_R
+    400032: CTRL_UpperArm_L
+    400034: CTRL_UpperArm_R
+    400036: Foot_L
+    400038: Foot_R
+    400040: Gun
+    400042: HeavyMech
+    400044: Hip_L
+    400046: Hip_R
+    400048: Knee1_L
+    400050: Knee1_R
+    400052: Knee_L
+    400054: Knee_R
+    400056: LowerArm_L
+    400058: LowerArm_R
+    400060: Pelvis
+    400062: Pelvis_Control
+    400064: Root
+    400066: //RootNode
+    400068: Spine
+    400070: Toe1_L
+    400072: Toe1_R
+    400074: Toe2_L
+    400076: Toe2_R
+    400078: UpperArm_L
+    400080: UpperArm_R
+    4300000: HeavyMech
+    9500000: //RootNode
+    13700000: HeavyMech
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

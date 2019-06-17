@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6ff0df395a42f894a81a5f93c9fd71df
+timeCreated: 1521658196
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: USAAF_Stencil
+  fontNames:
+  - USAAF_Stencil
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

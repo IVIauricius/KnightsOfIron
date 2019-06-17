@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 4f6e187173fce3c4abccaaead6bb6d3e
+timeCreated: 1524510086
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: At_Gun
+    100002: CTRL_FootL
+    100004: CTRL_FootR
+    100006: CTRL_HipL
+    100008: CTRL_HipR
+    100010: CTRL_KneeL
+    100012: CTRL_KneeR
+    100014: CTRL_Pelvis
+    100016: CTRl_Root
+    100018: Foot_L
+    100020: Foot_R
+    100022: Gun
+    100024: Hip_L
+    100026: Hip_R
+    100028: Knee_L
+    100030: Knee_R
+    100032: medium_mech_3_mesh:SM_Mech_Med_3_LP
+    100034: nurbsCircle6
+    100036: nurbsCircle7
+    100038: nurbsCircle8
+    100040: nurbsCircle9
+    100042: Pelvis
+    100044: Root
+    100046: Shield_L
+    100048: Shield_R
+    100050: //RootNode
+    100052: Spine
+    400000: At_Gun
+    400002: CTRL_FootL
+    400004: CTRL_FootR
+    400006: CTRL_HipL
+    400008: CTRL_HipR
+    400010: CTRL_KneeL
+    400012: CTRL_KneeR
+    400014: CTRL_Pelvis
+    400016: CTRl_Root
+    400018: Foot_L
+    400020: Foot_R
+    400022: Gun
+    400024: Hip_L
+    400026: Hip_R
+    400028: Knee_L
+    400030: Knee_R
+    400032: medium_mech_3_mesh:SM_Mech_Med_3_LP
+    400034: nurbsCircle6
+    400036: nurbsCircle7
+    400038: nurbsCircle8
+    400040: nurbsCircle9
+    400042: Pelvis
+    400044: Root
+    400046: Shield_L
+    400048: Shield_R
+    400050: //RootNode
+    400052: Spine
+    4300000: medium_mech_3_mesh:SM_Mech_Med_3_LP
+    9500000: //RootNode
+    13700000: medium_mech_3_mesh:SM_Mech_Med_3_LP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 2a8426f37994a234f894c0ee777cd042
+timeCreated: 1517285209
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: LightMech
+    100002: LightMech.001
+    100004: LightMech.002
+    100006: LightMech.003
+    100008: LightMech.004
+    100010: LightMech.005
+    100012: LightMech.006
+    100014: LightMech.007
+    100016: LightMech.008
+    100018: LightMech.009
+    100020: LightMech.010
+    100022: LightMech.011
+    100024: LightMech.012
+    100026: LightMech.013
+    100028: LightMech.014
+    100030: LightMech.015
+    100032: LightMech.016
+    100034: LightMech.017
+    100036: LightMech.018
+    100038: LightMech.019
+    100040: LightMech.020
+    100042: LightMech.021
+    100044: LightMech.022
+    100046: LightMech.023
+    100048: LightMech.024
+    100050: LightMech.025
+    100052: LightMech.026
+    100054: LightMech.027
+    100056: LightMech.028
+    100058: LightMech.029
+    100060: LightMech.030
+    100062: LightMech.031
+    100064: //RootNode
+    400000: LightMech
+    400002: LightMech.001
+    400004: LightMech.002
+    400006: LightMech.003
+    400008: LightMech.004
+    400010: LightMech.005
+    400012: LightMech.006
+    400014: LightMech.007
+    400016: LightMech.008
+    400018: LightMech.009
+    400020: LightMech.010
+    400022: LightMech.011
+    400024: LightMech.012
+    400026: LightMech.013
+    400028: LightMech.014
+    400030: LightMech.015
+    400032: LightMech.016
+    400034: LightMech.017
+    400036: LightMech.018
+    400038: LightMech.019
+    400040: LightMech.020
+    400042: LightMech.021
+    400044: LightMech.022
+    400046: LightMech.023
+    400048: LightMech.024
+    400050: LightMech.025
+    400052: LightMech.026
+    400054: LightMech.027
+    400056: LightMech.028
+    400058: LightMech.029
+    400060: LightMech.030
+    400062: LightMech.031
+    400064: //RootNode
+    2300000: LightMech
+    2300002: LightMech.001
+    2300004: LightMech.002
+    2300006: LightMech.003
+    2300008: LightMech.004
+    2300010: LightMech.005
+    2300012: LightMech.006
+    2300014: LightMech.007
+    2300016: LightMech.008
+    2300018: LightMech.009
+    2300020: LightMech.010
+    2300022: LightMech.011
+    2300024: LightMech.012
+    2300026: LightMech.013
+    2300028: LightMech.014
+    2300030: LightMech.015
+    2300032: LightMech.016
+    2300034: LightMech.017
+    2300036: LightMech.018
+    2300038: LightMech.019
+    2300040: LightMech.020
+    2300042: LightMech.021
+    2300044: LightMech.022
+    2300046: LightMech.023
+    2300048: LightMech.024
+    2300050: LightMech.025
+    2300052: LightMech.026
+    2300054: LightMech.027
+    2300056: LightMech.028
+    2300058: LightMech.029
+    2300060: LightMech.030
+    2300062: LightMech.031
+    3300000: LightMech
+    3300002: LightMech.001
+    3300004: LightMech.002
+    3300006: LightMech.003
+    3300008: LightMech.004
+    3300010: LightMech.005
+    3300012: LightMech.006
+    3300014: LightMech.007
+    3300016: LightMech.008
+    3300018: LightMech.009
+    3300020: LightMech.010
+    3300022: LightMech.011
+    3300024: LightMech.012
+    3300026: LightMech.013
+    3300028: LightMech.014
+    3300030: LightMech.015
+    3300032: LightMech.016
+    3300034: LightMech.017
+    3300036: LightMech.018
+    3300038: LightMech.019
+    3300040: LightMech.020
+    3300042: LightMech.021
+    3300044: LightMech.022
+    3300046: LightMech.023
+    3300048: LightMech.024
+    3300050: LightMech.025
+    3300052: LightMech.026
+    3300054: LightMech.027
+    3300056: LightMech.028
+    3300058: LightMech.029
+    3300060: LightMech.030
+    3300062: LightMech.031
+    4300000: LightMech.031
+    4300002: LightMech.030
+    4300004: LightMech.029
+    4300006: LightMech.028
+    4300008: LightMech.027
+    4300010: LightMech.026
+    4300012: LightMech.025
+    4300014: LightMech.024
+    4300016: LightMech.023
+    4300018: LightMech.022
+    4300020: LightMech.021
+    4300022: LightMech.020
+    4300024: LightMech.019
+    4300026: LightMech.018
+    4300028: LightMech.017
+    4300030: LightMech.016
+    4300032: LightMech.015
+    4300034: LightMech.014
+    4300036: LightMech.013
+    4300038: LightMech.012
+    4300040: LightMech.011
+    4300042: LightMech.010
+    4300044: LightMech.009
+    4300046: LightMech.008
+    4300048: LightMech.007
+    4300050: LightMech.006
+    4300052: LightMech.005
+    4300054: LightMech.004
+    4300056: LightMech.003
+    4300058: LightMech.002
+    4300060: LightMech.001
+    4300062: LightMech
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
